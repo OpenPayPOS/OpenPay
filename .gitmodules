@@ -1,0 +1,6 @@
+[submodule "OpenPay_Backend"]
+	path = OpenPay_Backend
+	url = https://github.com/OpenPayPOS/OpenPay_Backend
+[submodule "OpenPay_Frontend"]
+	path = OpenPay_Frontend
+	url = https://github.com/OpenPayPOS/OpenPay_Frontend
